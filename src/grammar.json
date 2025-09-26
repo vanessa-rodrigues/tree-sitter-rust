@@ -9587,6 +9587,10 @@
           {
             "type": "STRING",
             "value": "gen"
+          },
+          {
+            "type": "STRING",
+            "value": "raw"
           }
         ]
       },
@@ -9735,6 +9739,5 @@
     "_literal_pattern",
     "_declaration_statement",
     "_pattern"
-  ],
-  "reserved": {}
+  ]
 }
